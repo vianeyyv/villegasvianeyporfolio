@@ -1,0 +1,26 @@
+---
+title: "Welcome to My Portfolio"
+---
+
+::: {.card}
+Hi, my name is **Vianey Villegas**, and I am a student interested in marketing managment, digital marketing, and creative strategy.
+
+This portfolio shares a few projects I have worked on while learning how brands use data to understand customers, improve campaigns, and communicate more effectively.
+:::
+
+## About Me
+
+I am currently building my skills in marketing analytics, digital marketing, and data storytelling. I enjoy projects that combine creativity with startegy, like filming content for social media. 
+
+## Career Interest
+
+My goal is to work in a digital marketing related role where I can help a company understand its audience, improve campaign performance, and make better decisions using data.
+
+## Skills I Am Learning
+
+- Marketing analytics  
+- Social media strategy  
+- Google Analytics  
+- Data visualization  
+- R and Quarto  
+- Dashboard design  

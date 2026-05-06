@@ -1,0 +1,34 @@
+body {
+  background-color: #fff8f6;
+  color: #4a3a3a;
+  font-family: "Arial", sans-serif;
+}
+
+.navbar {
+  border-bottom: 2px solid #e8b8c8;
+}
+
+h1, h2, h3 {
+  color: #b86b7f;
+}
+
+a {
+  color: #a65f73;
+}
+
+.card {
+  background-color: #fff1f4;
+  border: 1px solid #e8c5cf;
+  border-radius: 18px;
+  padding: 20px;
+  margin: 15px 0;
+  box-shadow: 0 4px 10px rgba(184, 107, 127, 0.12);
+}
+
+.btn {
+  background-color: #d98da1;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 14px;
+  text-decoration: none;
+}/* css styles */

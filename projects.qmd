@@ -1,0 +1,86 @@
+---
+title: "My Projects"
+---
+
+## Research Participation Analysis
+
+::: project-card
+### Overview
+
+This project analyzed how students’ research participation relates to learning outcomes, attitudes, motivation, and future participation intentions.
+
+### Skills Used
+
+-   R
+-   Quarto
+-   ggplot2
+-   Data visualization
+-   Survey analysis
+
+### Key Research Questions
+
+-   Does participation improve learning outcomes?
+-   Does study quality affect attitudes?
+-   Does motivation influence learning?
+-   Do attitudes predict future participation?
+
+[View Presentation](Group-1-Proposalcopy.html){.btn}
+:::
+
+------------------------------------------------------------------------
+
+## Data Visualization Assignment 
+
+::: project-card
+### Overview
+
+Created visuals to practice data visualization using data.
+
+### Example Visuals
+
+-   Histograms
+-   Scatterplots
+-   Boxplots
+-   Bar graphs
+
+### Key Takeaway
+
+Data visualization helped explain how participation experiences connect to student learning and engagement.
+
+[View My assignment](Villegas, Vianey-M04-Reflection Essay-Advanced Data-Viz.html){.btn}
+:::
+
+------------------------------------------------------------------------
+
+## Marketing Analytics Case Study
+
+::: {.project-card}
+
+### Overview
+
+In my **Consumer Behavior** course, I worked on a project analyzing the brand **ALO Yoga** and developed a creative brand extension into the **pet market**.
+
+The project explored how ALO’s identity could expand into pet products while maintaining brand consistency.
+
+---
+
+### What I Did
+
+- Analyzed ALO’s **target audience and brand positioning**  
+- Applied **consumer behavior theories**  
+- Developed a **pet-focused product line concept**  
+- Created branding and marketing strategies  
+
+---
+
+### Key Insight
+
+The extension shows how lifestyle brands can expand into new markets by aligning with their customers’ values and behaviors.
+
+---
+
+### Presentation
+
+[View My Project Slides](Alo-for-pets.pdf){.btn}
+
+:::

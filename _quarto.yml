@@ -1,0 +1,26 @@
+project:
+  type: website
+  out-dir: docs
+website:
+  title: "Vianey Villegas"
+  navbar:
+    background: "#f7dce5"
+    foreground: "#5b3f45"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Marketing Projects
+      - href: digitalmarketing.qmd
+        text: Digital Marketing
+      - text: dashboard.qmd
+        text: Dashboards
+      - href: googleanalytics.qmd
+        text: Google Analytics 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+

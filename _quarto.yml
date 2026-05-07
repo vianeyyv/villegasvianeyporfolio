@@ -2,6 +2,7 @@ project:
   type: website
   out-dir: docs
 website:
+  google-analytics: "G-PY2V7X0XT1"
   title: "Vianey Villegas"
   navbar:
     background: "#f7dce5"

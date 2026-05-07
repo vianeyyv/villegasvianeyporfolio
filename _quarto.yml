@@ -2,7 +2,10 @@ project:
   type: website
   out-dir: docs
 website:
-  google-analytics: "G-PY2V7X0XT1"
+  google-analytics: "G-86KT6YHF2P"
+
+  gtag('config', 'G-86KT6YHF2P');
+</script>"
   title: "Vianey Villegas"
   navbar:
     background: "#f7dce5"
@@ -25,13 +28,4 @@ format:
     css: styles.css
     toc: false
 
-    <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-86KT6YHF2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-86KT6YHF2P');
-</script>
-
+    

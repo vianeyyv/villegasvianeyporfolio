@@ -3,9 +3,6 @@ project:
   out-dir: docs
 website:
   google-analytics: "G-86KT6YHF2P"
-
-  gtag('config', 'G-86KT6YHF2P');
-</script>"
   title: "Vianey Villegas"
   navbar:
     background: "#f7dce5"

@@ -1,9 +1,10 @@
 project:
   type: website
-  out-dir: docs
+  output-dir: docs
+
 website:
-  google-analytics: "G-86KT6YHF2P"
   title: "Vianey Villegas"
+  google-analytics: G-PY2V7X0XT1
   navbar:
     background: "#f7dce5"
     foreground: "#5b3f45"
@@ -14,15 +15,17 @@ website:
         text: Marketing Projects
       - href: digitalmarketing.qmd
         text: Digital Marketing
-      - text: dashboard.qmd
+      - href: dashboard.qmd
         text: Dashboards
       - href: googleanalytics.qmd
-        text: Google Analytics 
+        text: Google Analytics
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
-
-    
+with:
+  source: .
+  destination: ./_site
+  
